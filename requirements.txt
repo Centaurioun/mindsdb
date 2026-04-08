@@ -1,7 +1,7 @@
 lightwood >= 23.3.2.0, < 23.3.3.0
 markupsafe == 2.0.1
 flask-restx >= 1.0.1, < 2.0.0
-flask >= 1.0, < 2.0
+flask >= 1.0, < 4.0
 python-multipart >= 0.0.5
 pyparsing == 2.3.1
 cryptography>=35.0
@@ -31,7 +31,7 @@ charset-normalizer
 dill >= 0.3.4
 pyOpenSSL >= 22.0.0
 pydateinfer==0.3.0
-pyarrow >= 9.0.0, < 10.0.0
+pyarrow >= 9.0.0, < 22.0.0
 dataprep_ml
 grpcio-tools
 python-magic >= 0.4.27
